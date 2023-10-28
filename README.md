@@ -1,1 +1,1 @@
-<img src="./about.gif?raw=true" style="border-radius:10px"/>
+<img src="./about-me.gif?raw=true" style="border-radius:10px"/>
